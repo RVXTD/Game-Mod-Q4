@@ -1,0 +1,3 @@
+# Overwatch Mod for Quake 4 #
+
+This mod is very simple. You will be either capturing and defending a control point against hordes of enemies, or you will be tasked with pushing a payload to it's destination. Included in this mod is also 5 classes, each with a passive and ultimate ability, and a weapon designed to mimic their weapon in the original Overwatch. While you play, earn XP that will allow you to earn the ability to select 1 of 2 perks for each class. If you're having any trouble, use the built-in help menu with the key binds, what each ability does, and what your perk options are for each class.
